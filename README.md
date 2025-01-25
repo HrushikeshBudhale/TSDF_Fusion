@@ -5,8 +5,10 @@ This repository part of *from scratch implementation* initiative and meant for l
 
 **Note:** The repository is not intended for production use, as vanilla PyTorch is not the best choice for performance-critical applications. For applications requiring high performance, consider using a CUDA-based implementations.
 
-<img src="output/tsdf_fusion.gif" height=250px align="right"/>
-
+<br>
+<p align="right">
+  <img src="output/tsdf_fusion.gif" height=250px/>
+</p>
 
 ## Installation
 1. (Optional) Create new conda environment:
