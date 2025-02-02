@@ -1,7 +1,7 @@
 # Volumetric TSDF Fusion in PyTorch
 ### Fuse RGB-D images using Truncated Sign Distance Function (TSDF) Fusion with Live visualization
 
-This repository part of *from scratch implementation* initiative and meant for learning and understanding the basics of Truncated Signed Distance Function (TSDF) Fusion. It is a clean, concise and lightweight implementation of the algorithm in PyTorch. It also demonstrates best practices for object-oriented programming.
+This repository is part of *from scratch implementation* initiative and meant for learning and understanding the basics of Truncated Signed Distance Function (TSDF) Fusion. It is a clean, concise and lightweight implementation of the algorithm in PyTorch. It also demonstrates best practices for object-oriented programming.
 
 **Note:** The repository is not intended for production use, as vanilla PyTorch is not the best choice for performance-critical applications. For applications requiring high performance, consider using a CUDA-based implementations.
 
