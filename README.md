@@ -6,7 +6,7 @@ This repository is part of *from scratch implementation* initiative and meant fo
 **Note:** The repository is not intended for production use, as vanilla PyTorch is not the best choice for performance-critical applications. For applications requiring high performance, consider using a CUDA-based implementations.
 
 <br>
-<p align="right">
+<p align="center">
   <img src="output/tsdf_fusion.gif" height=250px/>
 </p>
 
